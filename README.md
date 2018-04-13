@@ -27,18 +27,18 @@ ___
 
 ## Recognizing plants
 
-### Notable technologies
+**Notable technologies**
 
  - `Dimensionality reduction techniques`
  - `Convolutional neural networks`
  - `Object-oriented programming`
  - `Keras`
 
-### Summary
+**Summary**
 
 Under construction...
 
-### Links
+**Links**
 
 Under construction...
 
@@ -46,32 +46,32 @@ ___
 
 ## Kaggle competition entry - Titanic
 
-### Notable technologies
+**Notable technologies**
 
 
 
-### Summary
+**Summary**
 
 
 
-### Links
+**Links**
 
 ___
 
 ## Recommender system
 
-### Notable technologies
+**Notable technologies**
 
  - `Recommender system`
  - `Item-based collaborative filtering`
  - `Matrix factorization`
  - `Arguments parsing`
  
-### Summary
+**Summary**
 
 Under construction...
 
-### Links
+**Links**
 
 Under construction
 
@@ -79,14 +79,14 @@ ___
 
 ## Wahammer Fantasy Battles calculator
 
-### Notable technologies
+**Notable technologies**
 
  - `Shiny` with `R`
  - Monte carlo simulations
+ 
+**Summary**
 
-### Summary
 
 
-
-### Links
+**Links**
 
