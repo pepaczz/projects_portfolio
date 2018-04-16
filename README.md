@@ -32,8 +32,8 @@ ___
 
  - `Python 3.5`
  - `Dimensionality reduction techniques`
- - `Convolutional neural networks`
- - `image data augmentation`
+ - `Convolutional neural networks (CNN)`
+ - `Image data augmentation`
  - `Object-oriented programming`
  - `Keras`
 
@@ -92,7 +92,7 @@ ___
 
  - `R`
  - `Shiny`
- - Monte carlo simulations
+ - `Monte carlo simulations`
  
 **Summary**
 
