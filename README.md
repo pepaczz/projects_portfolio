@@ -4,8 +4,16 @@
 Hi there, 
 
 here you can find portfolio of several projects I have done mostly for fun, to educate myself and, well, to show what I am capable of working with. The projects are sorted chronologically, the newest projects being at the top.
+
+ - >[Deepdream exploration](#deep)
+ - >[Plant Seedlings Classification](#plants)
+ - >[Titanic (Kaggle competition)](#titanic)
+ - >[Recommender system](#reco)
+ - >[Wahammer Fantasy Battles calculator](#wfb)
+
 ___
 
+<a id='deep'></a>
 ## Deepdream exploration
 
 ![prales](./images/prales.jpg)
@@ -29,6 +37,7 @@ I had a lot of fun with this project. It is an extension to the [Deepdream noteb
 
 ___
 
+<a id='plants'></a>
 ## Plant Seedlings Classification (Kaggle competition)
 
 ![t_sne](https://github.com/pepaczz/projects_portfolio/blob/master/images/t_sne.png)
@@ -55,7 +64,8 @@ This project is related to the [Kaggle competition](https://www.kaggle.com/c/pla
 
 ___
 
-## Titanic Kaggle competition
+<a id='titanic'></a>
+## Titanic (Kaggle competition)
 
 ![titanic_eda](https://github.com/pepaczz/projects_portfolio/blob/master/images/titanic_eda.png)
 
@@ -80,6 +90,7 @@ Several scripts related to the [Titanic Kaggle competition](https://www.kaggle.c
 
 ___
 
+<a id='reco'></a>
 ## Recommender system
 
 ![reco_system](https://github.com/pepaczz/projects_portfolio/blob/master/images/reco_system.png)
@@ -102,6 +113,7 @@ Currently not deployed as a public repository.
 
 ___
 
+<a id='wfb'></a>
 ## Wahammer Fantasy Battles calculator
 
 ![wh_calc](https://github.com/pepaczz/projects_portfolio/blob/master/images/wh_calc.png)
