@@ -27,11 +27,11 @@ ___
  
 **Summary**
 
-I had a lot of fun with this project. It is an extension to the [Deepdream notebook from Tensorflow tutorials](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/deepdream/deepdream.ipynb). I explore behaviour of the Google's pretrained Inception5h CNN in terms of parameters tweaking, applying layers' filters on own images as well as visualizing layers themselves.
+I had a lot of fun with this project. It is an extension to the Deepdream notebook from Tensorflow tutorials. I explore behaviour of the Google's pretrained Inception5h CNN in terms of parameters tweaking, applying layers' filters on own images as well as visualizing layers themselves.
  
 **Links**
 
- - [GitHub repo](https://github.com/pepaczz/deepdream_exploration)
+ - [GitHub repository](https://github.com/pepaczz/deepdream_exploration)
  - [ipynb notebook](https://github.com/pepaczz/deepdream_exploration/blob/master/codes/deepdream_explor_20180403a.ipynb) - Due to a lot of visualizations the binary is rather large (16 MB) and reloading might be necessary to show it in GitHub. If problems prevail please download the html and open it on your computer. It is worth it!
  - [exported html](https://raw.githubusercontent.com/pepaczz/deepdream_exploration/master/codes/deepdream_explor_20180403a.html) - please save the html to your desktop to display it
 
@@ -57,7 +57,7 @@ This project is related to the [Kaggle competition](https://www.kaggle.com/c/pla
 
 **Links**
 
- - [repository homepage](https://github.com/pepaczz/kaggle_plants/blob/master/README.md)
+ - [GitHub repository](https://github.com/pepaczz/kaggle_plants/blob/master/README.md)
  - [dimensionality reduction results and visualizations](https://github.com/pepaczz/kaggle_plants/blob/master/codes/plants_dimension_reduce_20180405b.ipynb)
  - [model estimation](https://github.com/pepaczz/kaggle_plants/blob/master/codes/plants_cnn_model_fit_20180415c.py)
  - [model evaluation](https://github.com/pepaczz/kaggle_plants/blob/master/codes/plants_cnn_model_evaluation_20180410c.ipynb)
