@@ -8,8 +8,9 @@ ___
 
 ## Deepdream exploration
 
-**Notable technologies**
+**Notable technologies and methods**
 
+ - `Python 3.5`
  - `TensorFlow`
  - `Convolutional neural networks (CNN)`
  
@@ -25,28 +26,35 @@ I had a lot of fun with this project. It is an extension to the [Deepdream noteb
 
 ___
 
-## Recognizing plants
+## Plant Seedlings Classification
 
-**Notable technologies**
+**Notable technologies and methods**
 
+ - `Python 3.5`
  - `Dimensionality reduction techniques`
  - `Convolutional neural networks`
+ - `image data augmentation`
  - `Object-oriented programming`
  - `Keras`
 
 **Summary**
 
-Under construction...
+This project is related to the [Kaggle competition](https://www.kaggle.com/c/plant-seedlings-classification). There two mian goals pursued. 
+ - First, to show how dimensionality reduction techniques, such as PCA and t-SNA, work on image data. 
+ - Second, to classify the data using convolutional neural network (CNN)
 
 **Links**
 
-Under construction...
+ - [repository homepage](https://github.com/pepaczz/kaggle_plants/blob/master/README.md)
+ - [dimensionality reduction results and visualizations](https://github.com/pepaczz/kaggle_plants/blob/master/codes/plants_dimension_reduce_20180405b.ipynb)
+ - [model estimation](https://github.com/pepaczz/kaggle_plants/blob/master/codes/plants_cnn_model_fit_20180415c.py)
+ - [model evaluation](https://github.com/pepaczz/kaggle_plants/blob/master/codes/plants_cnn_model_evaluation_20180410c.ipynb)
 
 ___
 
 ## Kaggle competition entry - Titanic
 
-**Notable technologies**
+**Notable technologies and methods**
 
 
 
@@ -60,8 +68,9 @@ ___
 
 ## Recommender system
 
-**Notable technologies**
+**Notable technologies and methods**
 
+ - `R`
  - `Recommender system`
  - `Item-based collaborative filtering`
  - `Matrix factorization`
@@ -69,24 +78,27 @@ ___
  
 **Summary**
 
-Under construction...
+In this repository I constructed a recommender system, i.e. an algorithm that models users' preferences on items, being it products to sell, books, movies etc. Several methods of estimation are available - popular items, matrix factorization and item-based collaborative filtering. Each of these techniques is suitable for different situations as some of the techniques require certain amount of input data to provide reasonable results.
 
 **Links**
 
-Under construction
+Currently not deployed on a public repository.
 
 ___
 
 ## Wahammer Fantasy Battles calculator
 
-**Notable technologies**
+**Notable technologies and methods**
 
- - `Shiny` with `R`
+ - `R`
+ - `Shiny`
  - Monte carlo simulations
  
 **Summary**
 
-
+This utility calculates probability of one player succeding over another in the tabletop game Warhammer Fantasy Battles ( (c) Games Workshop Ltd.). Monte Carlo simulation is used to estimate probability density of distributions. A motivation for this technique is that the playing system is based on several succeeding rolls of 6-sided dices and therefore generating whole range of stochastic outcomes.
 
 **Links**
 
+ - [Shiny web application](https://josefbre.shinyapps.io/Warhammer_probCalculator_v_0_1/)
+ - [GitHub repository](https://github.com/pepaczz/warhammer)
