@@ -8,7 +8,7 @@ ___
 
 ## Deepdream exploration
 
-![prales](./images/prales.jpg)
+![prales](./images/prales.jpg  =500x)
 
 **Notable technologies and methods**
 
