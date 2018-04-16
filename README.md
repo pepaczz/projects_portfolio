@@ -8,9 +8,8 @@ ___
 
 ## Deepdream exploration
 
-![prales](./images/prales.jpg  =500x)
+![prales](./images/prales.jpg)
 
-<img src="https://github.com/pepaczz/projects_portfolio/blob/master/images/prales.jpg" alt="prales" style="width: 200px;"/>
 
 **Notable technologies and methods**
 
