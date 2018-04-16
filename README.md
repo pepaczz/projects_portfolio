@@ -39,9 +39,7 @@ ___
 
 **Summary**
 
-This project is related to the [Kaggle competition](https://www.kaggle.com/c/plant-seedlings-classification). There two mian goals pursued. 
- - First, to show how dimensionality reduction techniques, such as PCA and t-SNA, work on image data. 
- - Second, to classify the data using convolutional neural network (CNN)
+This project is related to the [Kaggle competition](https://www.kaggle.com/c/plant-seedlings-classification). There are two mian goals pursued. First, to show how dimensionality reduction techniques, such as PCA and t-SNA, work on image data. Second, to classify the data using convolutional neural network (CNN)
 
 **Links**
 
