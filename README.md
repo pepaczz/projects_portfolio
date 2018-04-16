@@ -26,7 +26,7 @@ I had a lot of fun with this project. It is an extension to the [Deepdream noteb
 
 ___
 
-## Plant Seedlings Classification
+## Plant Seedlings Classification (Kaggle competition)
 
 **Notable technologies and methods**
 
@@ -52,17 +52,26 @@ This project is related to the [Kaggle competition](https://www.kaggle.com/c/pla
 
 ___
 
-## Kaggle competition entry - Titanic
+## Titanic Kaggle competition
 
 **Notable technologies and methods**
 
-
+ - `Python 3.5`
+ - `Exploratory data analysis (EDA)`
+ - `Scikit-learn pipeline with custom transformers`
+ - `Random forest classifier`
+ - `TPot library (automated machine learning)`
 
 **Summary**
 
-
+Several scripts related to the [Titanic Kaggle competition](https://www.kaggle.com/c/titanic). I include various visualizations in the exploratory data analysis. Then I constructed a scikit-learn pipeline with custom transformers to preprocess the data to prepare them for the machine learning. Another supplementary script shows how different estimators behave on these data in terms of precision-recall tradeoff.
 
 **Links**
+
+ - [GitHub repository](https://github.com/pepaczz/kaggle_titanic)
+ - [Exploratory data analysis (EDA)](https://github.com/pepaczz/kaggle_titanic/blob/master/codes/exploratory_analysis_Kaggle_submission_20180307.ipynb)
+ - [Random forest classifier](https://github.com/pepaczz/kaggle_titanic/blob/master/codes/submission_RandomForestClassifier_20180307a.py)
+ - [Precision-recall comparison](https://github.com/pepaczz/kaggle_titanic/blob/master/codes/precision_recall_comparison_20180326.ipynb)
 
 ___
 
@@ -82,7 +91,7 @@ In this repository I constructed a recommender system, i.e. an algorithm that mo
 
 **Links**
 
-Currently not deployed on a public repository.
+Currently not deployed as a public repository.
 
 ___
 
