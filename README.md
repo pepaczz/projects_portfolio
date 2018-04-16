@@ -10,7 +10,7 @@ ___
 
 ![prales](./images/prales.jpg  =500x)
 
-<img src="https://github.com/pepaczz/projects_portfolio/blob/master/images/prales.jpg" alt="prales" style="width: 500px;"/>
+<img src="https://github.com/pepaczz/projects_portfolio/blob/master/images/prales.jpg" alt="prales" style="width: 200px;"/>
 
 **Notable technologies and methods**
 
