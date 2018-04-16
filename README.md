@@ -9,6 +9,7 @@ ___
 ## Deepdream exploration
 
 ![prales](./images/prales.jpg  =500x)
+<img src="./images/drawing.jpg" alt="prales" style="width: 500px;"/>
 
 **Notable technologies and methods**
 
