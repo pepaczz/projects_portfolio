@@ -8,6 +8,8 @@ ___
 
 ## Deepdream exploration
 
+![prales](https://github.com/pepaczz/projects_portfolio/blob/master/images/prales.jpg)
+
 **Notable technologies and methods**
 
  - `Python 3.5`
@@ -27,6 +29,8 @@ I had a lot of fun with this project. It is an extension to the [Deepdream noteb
 ___
 
 ## Plant Seedlings Classification (Kaggle competition)
+
+![t_sne](https://github.com/pepaczz/projects_portfolio/blob/master/images/t_sne.png)
 
 **Notable technologies and methods**
 
@@ -52,6 +56,8 @@ ___
 
 ## Titanic Kaggle competition
 
+![titanic_eda](https://github.com/pepaczz/projects_portfolio/blob/master/images/titanic_eda.png)
+
 **Notable technologies and methods**
 
  - `Python 3.5`
@@ -75,6 +81,8 @@ ___
 
 ## Recommender system
 
+![reco_system](https://github.com/pepaczz/projects_portfolio/blob/master/images/reco_system.png)
+
 **Notable technologies and methods**
 
  - `R`
@@ -94,6 +102,8 @@ Currently not deployed as a public repository.
 ___
 
 ## Wahammer Fantasy Battles calculator
+
+![wh_calc](https://github.com/pepaczz/projects_portfolio/blob/master/images/wh_calc.png)
 
 **Notable technologies and methods**
 
