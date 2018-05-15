@@ -6,6 +6,7 @@ Hi there,
 here you can find portfolio of several projects I have done mostly for fun, to educate myself and, well, to show what I am capable of working with. The projects are sorted chronologically, the newest projects being at the top.
 
  - >[Deepdream exploration](#deep)
+ - >[Cifar dataset prediction app](#cifar)
  - >[Plant Seedlings Classification](#plants)
  - >[Titanic (Kaggle competition)](#titanic)
  - >[Recommender system](#reco)
@@ -35,6 +36,27 @@ I had a lot of fun with this project. It is an extension to the Deepdream notebo
  - [ipynb notebook](https://github.com/pepaczz/deepdream_exploration/blob/master/codes/deepdream_explor_20180403a.ipynb) - Due to a lot of visualizations the binary is rather large (16 MB) and reloading might be necessary to show it in GitHub. If problems prevail please download the html and open it on your computer. It is worth it!
  - [exported html](https://raw.githubusercontent.com/pepaczz/deepdream_exploration/master/codes/deepdream_explor_20180403a.html) - please save the html to your desktop to display it
 
+___
+
+<a id='cifar'></a>
+## Cifar dataset CNN prediction app 
+
+![cifar](./images/cifar_app.png)
+
+**Notable technologies and methods**
+
+ - `Python 3.5`
+ - `TensorFlow`
+ - `Convolutional neural networks (CNN)`
+ - `Flask`
+
+**Summary**
+
+Purpose of this project is to develeop a web API which would allow a user to classify his own images accoding to categories in the CIFAR datasets. This classification is possible due to a pretrained deep convolutional neural network (CNN). The model is adapted from the [TensorFlow's deep CNN tutorial](https://www.tensorflow.org/tutorials/deep_cnn) and extended by several features: dropout layers are added, scripts are adaptet for usage for both CIFAR 10 and CIFAR 100 datasets and the web API is incorporated.
+
+**Links**
+
+[GitHub repository](https://github.com/pepaczz/cifar_prediction_app)
 ___
 
 <a id='plants'></a>
