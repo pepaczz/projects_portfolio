@@ -1,4 +1,3 @@
-# Josef Brechler
 # Data science projects portfolio
 
 Hi there, 
