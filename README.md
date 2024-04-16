@@ -1,141 +1,78 @@
-# Data science projects portfolio
+# Projects portfolio
 
 Hi there, 
 
 here you can find portfolio of several projects I have done mostly for fun, to educate myself and, well, to show what I am capable of working with. The projects are sorted chronologically, the newest projects being at the top.
 
- - >[Deepdream exploration](#deep)
- - >[Cifar dataset prediction app](#cifar)
- - >[Plant Seedlings Classification](#plants)
- - >[Titanic (Kaggle competition)](#titanic)
- - >[Recommender system](#reco)
- - >[Wahammer Fantasy Battles calculator](#wfb)
+ - >[Stocks intrinsic value estimation](#algo)
+ - >[Tabletop game Warcry simulation with reinforcement learning](#digger)
+ - >[Data science and ML teaching](#teach)
+ - >[Older project: Wahammer Fantasy Battles calculator](#wfb)
 
 ___
 
-<a id='deep'></a>
-## Deepdream exploration
+<a id='algo'></a>
+## Stocks intrinsic value estimation
 
-![prales](./images/prales.jpg)
+![algo](./images/algo.png)
 
 
 **Notable technologies and methods**
 
- - `Python 3.5`
- - `TensorFlow`
- - `Convolutional neural networks (CNN)`
+ - `Intrinsic value estimation`
+ - `Optimization`
+ - `SEC filings data`
  
 **Summary**
 
-I had a lot of fun with this project. It is an extension to the Deepdream notebook from Tensorflow tutorials. I explore behaviour of the Google's pretrained Inception5h CNN in terms of parameters tweaking, applying layers' filters on own images as well as visualizing layers themselves.
+Purpose of this project is to provide a basic tool for stock intrinsic value estimation. The tool is based on the discounted cash flow (DCF) model and uses historical financial data to estimate the intrinsic value of a stock. A trading strategy that is based on the intrinsic value is being developed. 
  
 **Links**
 
- - [GitHub repository](https://github.com/pepaczz/deepdream_exploration)
- - [ipynb notebook](https://github.com/pepaczz/deepdream_exploration/blob/master/codes/deepdream_explor_20180403a.ipynb) - Due to a lot of visualizations the binary is rather large (16 MB) and reloading might be necessary to show it in GitHub. If problems prevail please download the html and open it on your computer. It is worth it!
- - [exported html](https://raw.githubusercontent.com/pepaczz/deepdream_exploration/master/codes/deepdream_explor_20180403a.html) - please save the html to your desktop to display it
+ - [Project summary](./documents/project_summary.pdf)
+ - [GitHub repository (private)](https://github.com/pepaczz/algo)
 
 ___
 
-<a id='cifar'></a>
-## Cifar dataset CNN prediction app 
+<a id='digger'></a>
+## Tabletop game Warcry simulation with reinforcement learning
 
-![cifar](./images/cifar_app.png)
+![digger](./images/digger.png)
 
 **Notable technologies and methods**
 
- - `Python 3.5`
- - `TensorFlow`
- - `Convolutional neural networks (CNN)`
- - `Flask`
+ - `Neural networks in PyTorch`
+ - `DQN Reinforcement Learning`
+ - `Shortes path in 2D space with obstacles`
 
 **Summary**
 
-Purpose of this project is to develeop a web API which would allow a user to classify his own images accoding to categories in the CIFAR datasets. This classification is possible due to a pretrained deep convolutional neural network (CNN). The model is adapted from the [TensorFlow's deep CNN tutorial](https://www.tensorflow.org/tutorials/deep_cnn) and extended by several features: dropout layers are added, scripts are adaptet for usage for both CIFAR 10 and CIFAR 100 datasets and the web API is incorporated.
+I call this project Digger. Purpose is to create an environment for training and evaluating reinforcement learning agents in the context of tabletop wargame Warcry. Beside having fun and learning something new, my motivation was to create a tool that would allow me to test new strategies and train myself in the Warcry game.
 
 **Links**
 
-[GitHub repository](https://github.com/pepaczz/cifar_prediction_app)
+[GitHub repository (private)](https://github.com/pepaczz/digger)
 ___
 
-<a id='plants'></a>
-## Plant Seedlings Classification (Kaggle competition)
 
-![t_sne](https://github.com/pepaczz/projects_portfolio/blob/master/images/t_sne.png)
+<a id='teach'></a>
+## Data science and ML teaching
 
-**Notable technologies and methods**
-
- - `Python 3.5`
- - `Dimensionality reduction techniques`
- - `Convolutional neural networks (CNN)`
- - `Image data augmentation`
- - `Object-oriented programming`
- - `Keras`
+![teach](./images/teaching.png)
 
 **Summary**
 
-This project is related to the [Kaggle competition](https://www.kaggle.com/c/plant-seedlings-classification). There are two mian goals pursued. First, to show how dimensionality reduction techniques, such as PCA and t-SNA, work on image data. Second, to classify the data using convolutional neural network (CNN)
+I have been developing and teaching introductory data science and ML courses for robot_dreams teaching platform. Here I provide few example lesson materials.
 
 **Links**
 
- - [GitHub repository](https://github.com/pepaczz/kaggle_plants/blob/master/README.md)
- - [dimensionality reduction results and visualizations](https://github.com/pepaczz/kaggle_plants/blob/master/codes/plants_dimension_reduce_20180405b.ipynb)
- - [model estimation](https://github.com/pepaczz/kaggle_plants/blob/master/codes/plants_cnn_model_fit_20180415c.py)
- - [model evaluation](https://github.com/pepaczz/kaggle_plants/blob/master/codes/plants_cnn_model_evaluation_20180410c.ipynb)
-
-___
-
-<a id='titanic'></a>
-## Titanic (Kaggle competition)
-
-![titanic_eda](https://github.com/pepaczz/projects_portfolio/blob/master/images/titanic_eda.png)
-
-**Notable technologies and methods**
-
- - `Python 3.5`
- - `Exploratory data analysis (EDA)`
- - `Scikit-learn pipeline with custom transformers`
- - `Random forest classifier`
- - `TPot library (automated machine learning)`
-
-**Summary**
-
-Several scripts related to the [Titanic Kaggle competition](https://www.kaggle.com/c/titanic). I include various visualizations in the exploratory data analysis. Then I constructed a scikit-learn pipeline with custom transformers to preprocess the data to prepare them for the machine learning. Another supplementary script shows how different estimators behave on these data in terms of precision-recall tradeoff.
-
-**Links**
-
- - [GitHub repository](https://github.com/pepaczz/kaggle_titanic)
- - [Exploratory data analysis (EDA)](https://github.com/pepaczz/kaggle_titanic/blob/master/codes/exploratory_analysis_Kaggle_submission_20180307.ipynb)
- - [Random forest classifier](https://github.com/pepaczz/kaggle_titanic/blob/master/codes/submission_RandomForestClassifier_20180307a.py)
- - [Precision-recall comparison](https://github.com/pepaczz/kaggle_titanic/blob/master/codes/precision_recall_comparison_20180326.ipynb)
-
-___
-
-<a id='reco'></a>
-## Recommender system
-
-![reco_system](https://github.com/pepaczz/projects_portfolio/blob/master/images/reco_system.png)
-
-**Notable technologies and methods**
-
- - `R`
- - `Recommender system`
- - `Item-based collaborative filtering`
- - `Matrix factorization`
- - `Arguments parsing`
+ - [classification](./lessons/L03_klasifikace_cast1.pdf)
+ - [regularization](./lessons/L8_cast3.pdf)
  
-**Summary**
-
-In this repository I constructed a recommender system, i.e. an algorithm that models users' preferences on items, being it products to sell, books, movies etc. Several methods of estimation are available - popular items, matrix factorization and item-based collaborative filtering. Each of these techniques is suitable for different situations as some of the techniques require certain amount of input data to provide reasonable results.
-
-**Links**
-
-Currently not deployed as a public repository.
-
 ___
 
 <a id='wfb'></a>
-## Wahammer Fantasy Battles calculator
+## Older project: Wahammer Fantasy Battles calculator
 
 ![wh_calc](https://github.com/pepaczz/projects_portfolio/blob/master/images/wh_calc.png)
 
