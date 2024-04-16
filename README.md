@@ -14,8 +14,7 @@ ___
 <a id='algo'></a>
 ## Stocks intrinsic value estimation
 
-![algo](./images/algo.png)
-
+<img src="./images/algo.png" alt="algo" height="200"/>
 
 **Notable technologies and methods**
 
