@@ -36,7 +36,7 @@ ___
 <a id='digger'></a>
 ## Tabletop game Warcry simulation with reinforcement learning
 
-![digger](./images/digger.png)
+<img src="./images/digger.png" alt="digger" height="250"/>
 
 **Notable technologies and methods**
 
@@ -57,7 +57,7 @@ ___
 <a id='teach'></a>
 ## Data science and ML teaching
 
-![teach](./images/teaching.png)
+<img src="./images/teaching.png" alt="teaching" height="250"/>
 
 **Summary**
 
@@ -65,15 +65,15 @@ I have been developing and teaching introductory data science and ML courses for
 
 **Links**
 
- - [classification](./lessons/L03_klasifikace_cast1.pdf)
- - [regularization](./lessons/L8_cast3.pdf)
+ - [lesson on classification (large file, better download](./lessons/L03_klasifikace_cast1.pdf)
+ - [lesson on regularization (large file, better download](./lessons/L8_cast3.pdf)
  
 ___
 
 <a id='wfb'></a>
 ## Older project: Wahammer Fantasy Battles calculator
 
-![wh_calc](https://github.com/pepaczz/projects_portfolio/blob/master/images/wh_calc.png)
+<img src="https://github.com/pepaczz/projects_portfolio/blob/master/images/wh_calc.png" alt="wh_calc" height="200"/>
 
 **Notable technologies and methods**
 
