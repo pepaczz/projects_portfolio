@@ -28,7 +28,7 @@ Purpose of this project is to provide a basic tool for stock intrinsic value est
  
 **Links**
 
- - [Project summary](./documents/algo_project_summary.pdf)
+ - [Project summary (pdf)](./documents/algo_project_summary.pdf)
  - [GitHub repository (private)](https://github.com/pepaczz/algo)
 
 ___
@@ -50,7 +50,7 @@ I call this project Digger. Purpose is to create an environment for training and
 
 **Links**
 
-- [Project summary](./documents/digger_project_summary.pdf)
+- [Project summary (pdf)](./documents/digger_project_summary.pdf)
 - [GitHub repository (private)](https://github.com/pepaczz/digger)
 ___
 
@@ -66,8 +66,8 @@ I have been developing and teaching introductory data science and ML courses for
 
 **Links**
 
- - [lesson on classification (in Czech; large file, better to download)](./lessons/L03_klasifikace_cast1.pdf)
- - [lesson on regularization (in Czech; large file, better to download)](./lessons/L8_cast3.pdf)
+ - [lesson on classification (in Czech; large pdf file, better to download)](./lessons/L03_klasifikace_cast1.pdf)
+ - [lesson on regularization (in Czech; large pdf file, better to download)](./lessons/L8_cast3.pdf)
  
 ___
 
