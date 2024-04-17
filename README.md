@@ -2,7 +2,7 @@
 
 Hi there, 
 
-here you can find portfolio of several projects I have done mostly for fun, to educate myself and, well, to show what I am capable of working with. The projects are sorted chronologically, the newest projects being at the top.
+here you can find portfolio of several projects I have done recently (and one not so recently). The projects are sorted chronologically, the newest projects being at the top.
 
  - >[Stocks intrinsic value estimation](#algo)
  - >[Tabletop game Warcry simulation with reinforcement learning](#digger)
@@ -28,15 +28,15 @@ Purpose of this project is to provide a basic tool for stock intrinsic value est
  
 **Links**
 
- - [Project summary](./documents/project_summary.pdf)
+ - [Project summary](./documents/algo_project_summary.pdf)
  - [GitHub repository (private)](https://github.com/pepaczz/algo)
 
 ___
 
 <a id='digger'></a>
-## Tabletop game Warcry simulation with reinforcement learning
+## Warcry tabletop game simulator with reinforcement learning
 
-<img src="./images/digger.png" alt="digger" height="250"/>
+<img src="./images/digger.png" alt="digger" height="180"/>
 
 **Notable technologies and methods**
 
@@ -46,11 +46,12 @@ ___
 
 **Summary**
 
-I call this project Digger. Purpose is to create an environment for training and evaluating reinforcement learning agents in the context of tabletop wargame Warcry. Beside having fun and learning something new, my motivation was to create a tool that would allow me to test new strategies and train myself in the Warcry game.
+I call this project Digger. Purpose is to create an environment for training and evaluating reinforcement learning agents in the context of tabletop wargame Warcry. Beside having fun and learning something new, my motivation is to create a tool that would allow me to test new strategies and train myself in the Warcry game. This is project in development.
 
 **Links**
 
-[GitHub repository (private)](https://github.com/pepaczz/digger)
+- [Project summary](./documents/digger_project_summary.pdf)
+- [GitHub repository (private)](https://github.com/pepaczz/digger)
 ___
 
 
@@ -65,8 +66,8 @@ I have been developing and teaching introductory data science and ML courses for
 
 **Links**
 
- - [lesson on classification (large file, better download](./lessons/L03_klasifikace_cast1.pdf)
- - [lesson on regularization (large file, better download](./lessons/L8_cast3.pdf)
+ - [lesson on classification (in Czech; large file, better to download)](./lessons/L03_klasifikace_cast1.pdf)
+ - [lesson on regularization (in Czech; large file, better to download)](./lessons/L8_cast3.pdf)
  
 ___
 
