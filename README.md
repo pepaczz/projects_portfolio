@@ -31,7 +31,7 @@ Purpose of the project is to use variational autoencoder to create *facial compo
 
 **Links**
 
-- [GitHub repository (private, token needed)](https://github.com/pepaczz/bmfml)
+- [GitHub repository](https://github.com/pepaczz/bmfml)
 
 ___
 
@@ -53,7 +53,7 @@ I call this project Digger. Purpose is to create an environment for training and
 **Links**
 
 - [Project summary (pdf)](./documents/digger_project_summary.pdf)
-- [GitHub repository (private, token needed)](https://github.com/pepaczz/digger)
+- [GitHub repository](https://github.com/pepaczz/digger)
 
 ___
 
@@ -76,7 +76,7 @@ This repository contains two exercies related to option pricing and stochastic c
 
 **Links**
 
-- [GitHub repository (private, token needed)](https://github.com/pepaczz/derivatives)
+- [GitHub repository](https://github.com/pepaczz/derivatives)
 ___
 
 
@@ -114,7 +114,7 @@ Purpose of this project is to provide a basic tool for stock intrinsic value est
 **Links**
 
  - [Project summary (pdf)](./documents/algo_project_summary.pdf)
- - [GitHub repository (private, token needed)](https://github.com/pepaczz/algo)
+ - [GitHub repository](https://github.com/pepaczz/algo)
 ___
 
 
